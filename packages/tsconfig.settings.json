@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "types": [],
+      "sourceMap": true,
+      "target": "ES2020",
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "declaration": true,
+      "outDir": "dist",
+      "rootDir": "src"
+    },
+  }
+  
