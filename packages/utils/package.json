@@ -7,13 +7,15 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc -b .",
-    "test": "jest",
+    "build": "scripty",
     "clean": "rimraf dist *.tsbuildinfo",
-    "lint": "eslint src --ext js,ts"
+    "test": "scripty",
+    "lint": "scripty"
+  },
+  "scripty": {
+    "path": "../../scripts/packages/"
   },
   "dependencies": {
-    "date-fns": "^4.1.0",
     "react": "^18.3.1"
   },
   "devDependencies": {
@@ -22,6 +24,7 @@
     "@types/date-fns": "^2.6.3",
     "@types/jest": "^29.5.14",
     "@types/react": "^18.3.12",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "typescript": "^5.6.3"
   }
 }

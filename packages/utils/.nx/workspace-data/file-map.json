@@ -1,0 +1,86 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.8.8",
+  "deps": {
+    "date-fns": "^4.1.0",
+    "react": "^18.3.1",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/date-fns": "^2.6.3",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^18.3.12",
+    "jest": "^29.7.0",
+    "typescript": "^5.6.3"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".babelrc",
+        "hash": "14289444395455234324"
+      },
+      {
+        "file": ".eslintrc",
+        "hash": "8449591182752516709"
+      },
+      {
+        "file": "package.json",
+        "hash": "5939162754330813261"
+      },
+      {
+        "file": "src/api.ts",
+        "hash": "14294529716558685097"
+      },
+      {
+        "file": "src/date.ts",
+        "hash": "4660217496364808522"
+      },
+      {
+        "file": "src/deferred.ts",
+        "hash": "2394905232598370561"
+      },
+      {
+        "file": "src/error.ts",
+        "hash": "10596224817390126147"
+      },
+      {
+        "file": "src/http-error.ts",
+        "hash": "7875544902555358325"
+      },
+      {
+        "file": "src/index.ts",
+        "hash": "2013321516807579050"
+      },
+      {
+        "file": "src/networking.ts",
+        "hash": "8324496768826840200"
+      },
+      {
+        "file": "tests/date.test.ts",
+        "hash": "3210015874957011801"
+      },
+      {
+        "file": "tests/deferred.test.ts",
+        "hash": "11220654352541969516"
+      },
+      {
+        "file": "tests/error.test.ts",
+        "hash": "5820771742093882853"
+      },
+      {
+        "file": "tests/http-error.test.ts",
+        "hash": "15775643465905548408"
+      },
+      {
+        "file": "tests/tsconfig.json",
+        "hash": "13642596120114680658"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "17494856234396414708"
+      }
+    ]
+  }
+}

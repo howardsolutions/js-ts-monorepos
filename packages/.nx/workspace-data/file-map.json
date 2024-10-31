@@ -1,0 +1,124 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.8.8",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".babelrc",
+        "hash": "8862879451517892244"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "6022313575100308734"
+      },
+      {
+        "file": "tsconfig.settings.json",
+        "hash": "4908045779774540805"
+      },
+      {
+        "file": "types/.babelrc",
+        "hash": "14289444395455234324"
+      },
+      {
+        "file": "types/.eslintrc",
+        "hash": "3087793907738403199"
+      },
+      {
+        "file": "types/package.json",
+        "hash": "3347840555056232999"
+      },
+      {
+        "file": "types/src/index.ts",
+        "hash": "14943833969883776921"
+      },
+      {
+        "file": "types/src/type-guards.ts",
+        "hash": "13712904533530754859"
+      },
+      {
+        "file": "types/src/types.ts",
+        "hash": "6176636759436891933"
+      },
+      {
+        "file": "types/tests/tsconfig.json",
+        "hash": "10341454467609805707"
+      },
+      {
+        "file": "types/tests/type-guard.test.ts",
+        "hash": "18218669918876698737"
+      },
+      {
+        "file": "types/tsconfig.json",
+        "hash": "17494856234396414708"
+      },
+      {
+        "file": "utils/.babelrc",
+        "hash": "14289444395455234324"
+      },
+      {
+        "file": "utils/.eslintrc",
+        "hash": "8449591182752516709"
+      },
+      {
+        "file": "utils/package.json",
+        "hash": "5939162754330813261"
+      },
+      {
+        "file": "utils/src/api.ts",
+        "hash": "14294529716558685097"
+      },
+      {
+        "file": "utils/src/date.ts",
+        "hash": "4660217496364808522"
+      },
+      {
+        "file": "utils/src/deferred.ts",
+        "hash": "2394905232598370561"
+      },
+      {
+        "file": "utils/src/error.ts",
+        "hash": "10596224817390126147"
+      },
+      {
+        "file": "utils/src/http-error.ts",
+        "hash": "7875544902555358325"
+      },
+      {
+        "file": "utils/src/index.ts",
+        "hash": "2013321516807579050"
+      },
+      {
+        "file": "utils/src/networking.ts",
+        "hash": "8324496768826840200"
+      },
+      {
+        "file": "utils/tests/date.test.ts",
+        "hash": "3210015874957011801"
+      },
+      {
+        "file": "utils/tests/deferred.test.ts",
+        "hash": "11220654352541969516"
+      },
+      {
+        "file": "utils/tests/error.test.ts",
+        "hash": "5820771742093882853"
+      },
+      {
+        "file": "utils/tests/http-error.test.ts",
+        "hash": "15775643465905548408"
+      },
+      {
+        "file": "utils/tests/tsconfig.json",
+        "hash": "13642596120114680658"
+      },
+      {
+        "file": "utils/tsconfig.json",
+        "hash": "17494856234396414708"
+      }
+    ]
+  }
+}
